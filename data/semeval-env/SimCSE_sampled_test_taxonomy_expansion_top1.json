@@ -1,0 +1,40 @@
+{"root": "environment", "test_node": "environmental economics", "test_node_parent": "environmental policy", "entity_list": ["environmental research", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "water resources", "test_node_parent": "natural resources", "entity_list": ["water management", "environment"], "relation_list": [["environment", "water management"]]}
+{"root": "environment", "test_node": "adaptation to climate change", "test_node_parent": "climate change policy", "entity_list": ["climate change", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "exploitation of the seas", "test_node_parent": "exploitation of resources", "entity_list": ["resources of the sea", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "underwater mineral resources", "test_node_parent": "natural resources", "entity_list": ["mineral resources", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "noise level", "test_node_parent": "noise", "entity_list": ["noise", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "cost of pollution", "test_node_parent": "environmental policy", "entity_list": ["pollution", "environment"], "relation_list": [["environment", "pollution"]]}
+{"root": "environment", "test_node": "North Sea", "test_node_parent": "Atlantic Ocean", "entity_list": ["Baltic Sea", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "mountain", "test_node_parent": "geophysical environment", "entity_list": ["erosion", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "domestic waste", "test_node_parent": "waste", "entity_list": ["waste", "environment"], "relation_list": [["environment", "waste"]]}
+{"root": "environment", "test_node": "environmental tax", "test_node_parent": "economic instrument for the environment", "entity_list": ["environmental impact", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "environmental liability", "test_node_parent": "environmental law", "entity_list": ["environmental impact", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "waste incineration", "test_node_parent": "waste disposal", "entity_list": ["chemical waste", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "biotope", "test_node_parent": "ecosystem", "entity_list": ["physical environment", "environment"], "relation_list": [["environment", "physical environment"]]}
+{"root": "environment", "test_node": "decontamination", "test_node_parent": "pollution control measures", "entity_list": ["radioactive pollution", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "destruction of crops", "test_node_parent": "degradation of the environment", "entity_list": ["plant resources", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "fight against insects", "test_node_parent": "environmental protection", "entity_list": ["insect", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "soil resources", "test_node_parent": "natural resources", "entity_list": ["plant resources", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "littoral", "test_node_parent": "marine environment", "entity_list": ["inshore grounds", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "eutrophication", "test_node_parent": "water pollution", "entity_list": ["biodegradability", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "sensitive area", "test_node_parent": "degradation of the environment", "entity_list": ["polluted area", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "protection of animals", "test_node_parent": "protection of animal life", "entity_list": ["protection of animal life", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "soil pollution", "test_node_parent": "pollution", "entity_list": ["environmental impact", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "estuary", "test_node_parent": "geophysical environment", "entity_list": ["aquatic environment", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "unauthorised dumping", "test_node_parent": "waste", "entity_list": ["dumping of waste", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "oil pollution", "test_node_parent": "pollution", "entity_list": ["marine pollution", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "biodiversity", "test_node_parent": "biosphere", "entity_list": ["renewable resources", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "monkey", "test_node_parent": "wild mammal", "entity_list": ["lynx", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "Arctic Ocean", "test_node_parent": "ocean", "entity_list": ["Arctic", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "ecological balance", "test_node_parent": "physical environment", "entity_list": ["natural hazard", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "national park", "test_node_parent": "protected area", "entity_list": ["national city park", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "equatorial zone", "test_node_parent": "climatic zone", "entity_list": ["arid zone", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "global warming", "test_node_parent": "climate change", "entity_list": ["climate change", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "Indian Ocean", "test_node_parent": "ocean", "entity_list": ["Red Sea", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "subtropical zone", "test_node_parent": "climatic zone", "entity_list": ["humid zone", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "watercourse", "test_node_parent": "geophysical environment", "entity_list": ["pollution of waterways", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "Caspian Sea", "test_node_parent": "sea", "entity_list": ["resources of the sea", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "cyclone", "test_node_parent": "natural disaster", "entity_list": ["bad weather", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "man-made disaster", "test_node_parent": "degradation of the environment", "entity_list": ["natural disaster", "environment"], "relation_list": []}
+{"root": "environment", "test_node": "reptile", "test_node_parent": "animal life", "entity_list": ["bear", "environment"], "relation_list": []}

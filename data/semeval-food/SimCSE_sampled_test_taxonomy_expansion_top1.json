@@ -1,0 +1,236 @@
+{"root": "food", "test_node": "castor sugar", "test_node_parent": "powdered sugar", "entity_list": ["cane sugar", "food"], "relation_list": []}
+{"root": "food", "test_node": "lutefisk", "test_node_parent": "dish", "entity_list": ["roly poly", "food"], "relation_list": []}
+{"root": "food", "test_node": "munich beer", "test_node_parent": "lager", "entity_list": ["weizenbock", "food"], "relation_list": []}
+{"root": "food", "test_node": "beef burrito", "test_node_parent": "burrito", "entity_list": ["beef fondue", "food"], "relation_list": []}
+{"root": "food", "test_node": "celery salt", "test_node_parent": "flavorer", "entity_list": ["celery seed", "food"], "relation_list": []}
+{"root": "food", "test_node": "foie gras", "test_node_parent": "pate", "entity_list": ["duck pate", "food"], "relation_list": []}
+{"root": "food", "test_node": "caffe latte", "test_node_parent": "espresso", "entity_list": ["espresso", "food"], "relation_list": []}
+{"root": "food", "test_node": "pork and beans", "test_node_parent": "dish", "entity_list": ["pork and veal goulash", "food"], "relation_list": []}
+{"root": "food", "test_node": "blue cheese dressing", "test_node_parent": "dressing", "entity_list": ["thousand island dressing", "food"], "relation_list": []}
+{"root": "food", "test_node": "process cheese", "test_node_parent": "cheese", "entity_list": ["cheese", "food"], "relation_list": []}
+{"root": "food", "test_node": "fad diet", "test_node_parent": "reducing diet", "entity_list": ["diabetic diet", "food"], "relation_list": []}
+{"root": "food", "test_node": "sausage pizza", "test_node_parent": "pizza", "entity_list": ["cheese pizza", "food"], "relation_list": []}
+{"root": "food", "test_node": "sazerac", "test_node_parent": "cocktail", "entity_list": ["brandy", "food"], "relation_list": []}
+{"root": "food", "test_node": "frankfurter bun", "test_node_parent": "bun", "entity_list": ["hotdog", "food"], "relation_list": []}
+{"root": "food", "test_node": "chicken kiev", "test_node_parent": "dish", "entity_list": ["chicken casserole", "food"], "relation_list": []}
+{"root": "food", "test_node": "triple sec", "test_node_parent": "orange liqueur", "entity_list": ["orange liqueur", "food"], "relation_list": []}
+{"root": "food", "test_node": "macaroni salad", "test_node_parent": "pasta salad", "entity_list": ["pasta salad", "food"], "relation_list": []}
+{"root": "food", "test_node": "stuffed mushroom", "test_node_parent": "hors d'oeuvre", "entity_list": ["stuffed peppers", "food"], "relation_list": []}
+{"root": "food", "test_node": "ice tea", "test_node_parent": "tea", "entity_list": ["sun tea", "food"], "relation_list": []}
+{"root": "food", "test_node": "apple dumpling", "test_node_parent": "dumpling", "entity_list": ["applesauce", "food"], "relation_list": []}
+{"root": "food", "test_node": "chutney", "test_node_parent": "condiment", "entity_list": ["curry sauce", "food"], "relation_list": []}
+{"root": "food", "test_node": "wish wash", "test_node_parent": "beverage", "entity_list": ["beverage", "food"], "relation_list": [["food", "beverage"]]}
+{"root": "food", "test_node": "crescent roll", "test_node_parent": "bun", "entity_list": ["parker house roll", "food"], "relation_list": []}
+{"root": "food", "test_node": "sukiyaki", "test_node_parent": "dish", "entity_list": ["sushi", "food"], "relation_list": []}
+{"root": "food", "test_node": "soft roll", "test_node_parent": "bun", "entity_list": ["sweet roll", "food"], "relation_list": []}
+{"root": "food", "test_node": "nosh up", "test_node_parent": "meal", "entity_list": ["stodge", "food"], "relation_list": []}
+{"root": "food", "test_node": "chocolate egg", "test_node_parent": "easter egg", "entity_list": ["creme de cacao", "food"], "relation_list": []}
+{"root": "food", "test_node": "light cream", "test_node_parent": "cream", "entity_list": ["cream", "food"], "relation_list": []}
+{"root": "food", "test_node": "fenugreek", "test_node_parent": "flavorer", "entity_list": ["chives", "food"], "relation_list": []}
+{"root": "food", "test_node": "comfit", "test_node_parent": "sweet", "entity_list": ["candy", "food"], "relation_list": []}
+{"root": "food", "test_node": "haggis", "test_node_parent": "dish", "entity_list": ["mincemeat", "food"], "relation_list": []}
+{"root": "food", "test_node": "cannelloni", "test_node_parent": "pasta", "entity_list": ["veal parmesan", "food"], "relation_list": []}
+{"root": "food", "test_node": "basil", "test_node_parent": "herb", "entity_list": ["bitter lemon", "food"], "relation_list": []}
+{"root": "food", "test_node": "bomber", "test_node_parent": "sandwich", "entity_list": ["stinger", "food"], "relation_list": []}
+{"root": "food", "test_node": "harvey wallbanger", "test_node_parent": "cocktail", "entity_list": ["gin rickey", "food"], "relation_list": []}
+{"root": "food", "test_node": "bran", "test_node_parent": "roughage", "entity_list": ["groats", "food"], "relation_list": []}
+{"root": "food", "test_node": "rosemary", "test_node_parent": "herb", "entity_list": ["lemon balm", "food"], "relation_list": []}
+{"root": "food", "test_node": "macedoine", "test_node_parent": "dish", "entity_list": ["salad", "food"], "relation_list": []}
+{"root": "food", "test_node": "calf's foot jelly", "test_node_parent": "gelatin", "entity_list": ["knish", "food"], "relation_list": []}
+{"root": "food", "test_node": "spaghetti and meatballs", "test_node_parent": "dish", "entity_list": ["spaghetti sauce", "food"], "relation_list": []}
+{"root": "food", "test_node": "shawnee cake", "test_node_parent": "johnnycake", "entity_list": ["hoecake", "food"], "relation_list": []}
+{"root": "food", "test_node": "liebfraumilch", "test_node_parent": "rhine wine", "entity_list": ["riesling", "food"], "relation_list": []}
+{"root": "food", "test_node": "frog legs", "test_node_parent": "dish", "entity_list": ["peach sauce", "food"], "relation_list": []}
+{"root": "food", "test_node": "dolmas", "test_node_parent": "dish", "entity_list": ["remoulade sauce", "food"], "relation_list": []}
+{"root": "food", "test_node": "chablis", "test_node_parent": "burgundy", "entity_list": ["creme brulee", "food"], "relation_list": []}
+{"root": "food", "test_node": "gin and tonic", "test_node_parent": "highball", "entity_list": ["gin and it", "food"], "relation_list": []}
+{"root": "food", "test_node": "onion bread", "test_node_parent": "bread", "entity_list": ["onion butter", "food"], "relation_list": []}
+{"root": "food", "test_node": "bread sauce", "test_node_parent": "sauce", "entity_list": ["custard", "food"], "relation_list": []}
+{"root": "food", "test_node": "colostrum", "test_node_parent": "milk", "entity_list": ["egg", "food"], "relation_list": []}
+{"root": "food", "test_node": "fried egg", "test_node_parent": "dish", "entity_list": ["boiled egg", "food"], "relation_list": []}
+{"root": "food", "test_node": "pirogi", "test_node_parent": "turnover", "entity_list": ["tokay", "food"], "relation_list": []}
+{"root": "food", "test_node": "moonshine", "test_node_parent": "corn whiskey", "entity_list": ["absinth", "food"], "relation_list": []}
+{"root": "food", "test_node": "fast food", "test_node_parent": "nutriment", "entity_list": ["snack food", "food"], "relation_list": []}
+{"root": "food", "test_node": "french fries", "test_node_parent": "potato", "entity_list": ["home fries", "food"], "relation_list": []}
+{"root": "food", "test_node": "dog food", "test_node_parent": "petfood", "entity_list": ["petfood", "food"], "relation_list": []}
+{"root": "food", "test_node": "junket", "test_node_parent": "dessert", "entity_list": ["plate", "food"], "relation_list": []}
+{"root": "food", "test_node": "carob bar", "test_node_parent": "candy", "entity_list": ["candy bar", "food"], "relation_list": []}
+{"root": "food", "test_node": "steamed pudding", "test_node_parent": "pudding", "entity_list": ["pudding", "food"], "relation_list": []}
+{"root": "food", "test_node": "cream soda", "test_node_parent": "soft drink", "entity_list": ["orange soda", "food"], "relation_list": []}
+{"root": "food", "test_node": "white russian", "test_node_parent": "cocktail", "entity_list": ["bialy", "food"], "relation_list": []}
+{"root": "food", "test_node": "maple syrup", "test_node_parent": "syrup", "entity_list": ["birch beer", "food"], "relation_list": []}
+{"root": "food", "test_node": "mess", "test_node_parent": "nutriment", "entity_list": ["port", "food"], "relation_list": []}
+{"root": "food", "test_node": "canary wine", "test_node_parent": "white wine", "entity_list": ["sherry", "food"], "relation_list": []}
+{"root": "food", "test_node": "bock", "test_node_parent": "lager", "entity_list": ["weizenbock", "food"], "relation_list": []}
+{"root": "food", "test_node": "vanilla pudding", "test_node_parent": "pudding", "entity_list": ["blancmange", "food"], "relation_list": []}
+{"root": "food", "test_node": "worcester sauce", "test_node_parent": "sauce", "entity_list": ["mustard sauce", "food"], "relation_list": []}
+{"root": "food", "test_node": "california wine", "test_node_parent": "wine", "entity_list": ["wine", "food"], "relation_list": []}
+{"root": "food", "test_node": "poulette", "test_node_parent": "sauce", "entity_list": ["bleu", "food"], "relation_list": []}
+{"root": "food", "test_node": "cud", "test_node_parent": "feed", "entity_list": ["gherkin", "food"], "relation_list": []}
+{"root": "food", "test_node": "penuche", "test_node_parent": "fudge", "entity_list": ["chocolate fudge", "food"], "relation_list": []}
+{"root": "food", "test_node": "carrot pudding", "test_node_parent": "pudding", "entity_list": ["pudding", "food"], "relation_list": []}
+{"root": "food", "test_node": "frittata", "test_node_parent": "dish", "entity_list": ["anchovy pizza", "food"], "relation_list": []}
+{"root": "food", "test_node": "beef goulash", "test_node_parent": "goulash", "entity_list": ["goulash", "food"], "relation_list": []}
+{"root": "food", "test_node": "hand cheese", "test_node_parent": "cheese", "entity_list": ["cottage cheese", "food"], "relation_list": []}
+{"root": "food", "test_node": "tomato sauce", "test_node_parent": "spaghetti sauce", "entity_list": ["spaghetti sauce", "food"], "relation_list": []}
+{"root": "food", "test_node": "skim milk", "test_node_parent": "milk", "entity_list": ["semi skimmed milk", "food"], "relation_list": []}
+{"root": "food", "test_node": "buttermilk biscuit", "test_node_parent": "biscuit", "entity_list": ["baking powder biscuit", "food"], "relation_list": []}
+{"root": "food", "test_node": "iced coffee", "test_node_parent": "coffee", "entity_list": ["instant coffee", "food"], "relation_list": []}
+{"root": "food", "test_node": "brandyball", "test_node_parent": "candy", "entity_list": ["hardbake", "food"], "relation_list": []}
+{"root": "food", "test_node": "kibble", "test_node_parent": "meal", "entity_list": ["kishke", "food"], "relation_list": []}
+{"root": "food", "test_node": "chili sauce", "test_node_parent": "condiment", "entity_list": ["pepper sauce", "food"], "relation_list": []}
+{"root": "food", "test_node": "phosphate", "test_node_parent": "soft drink", "entity_list": ["vitamin", "food"], "relation_list": []}
+{"root": "food", "test_node": "firewater", "test_node_parent": "liquor", "entity_list": ["life saver", "food"], "relation_list": []}
+{"root": "food", "test_node": "ice cream cone", "test_node_parent": "frozen dessert", "entity_list": ["choc ice", "food"], "relation_list": []}
+{"root": "food", "test_node": "plum sauce", "test_node_parent": "sauce", "entity_list": ["clam dip", "food"], "relation_list": []}
+{"root": "food", "test_node": "cognac", "test_node_parent": "brandy", "entity_list": ["calvados", "food"], "relation_list": []}
+{"root": "food", "test_node": "truffle", "test_node_parent": "candy", "entity_list": ["mold", "food"], "relation_list": []}
+{"root": "food", "test_node": "orange marmalade", "test_node_parent": "marmalade", "entity_list": ["orangeade", "food"], "relation_list": []}
+{"root": "food", "test_node": "egg white", "test_node_parent": "ingredient", "entity_list": ["egg cream", "food"], "relation_list": []}
+{"root": "food", "test_node": "macaroni and cheese", "test_node_parent": "pasta", "entity_list": ["cheese pizza", "food"], "relation_list": []}
+{"root": "food", "test_node": "may wine", "test_node_parent": "punch", "entity_list": ["schnapps", "food"], "relation_list": []}
+{"root": "food", "test_node": "brownie mix", "test_node_parent": "ready mix", "entity_list": ["choc ice", "food"], "relation_list": []}
+{"root": "food", "test_node": "cooler", "test_node_parent": "beverage", "entity_list": ["larder", "food"], "relation_list": []}
+{"root": "food", "test_node": "chicken provencale", "test_node_parent": "dish", "entity_list": ["chicken marengo", "food"], "relation_list": []}
+{"root": "food", "test_node": "draft beer", "test_node_parent": "beer", "entity_list": ["stout", "food"], "relation_list": []}
+{"root": "food", "test_node": "duff", "test_node_parent": "pudding", "entity_list": ["scotch", "food"], "relation_list": []}
+{"root": "food", "test_node": "perry", "test_node_parent": "alcohol", "entity_list": ["cider", "food"], "relation_list": []}
+{"root": "food", "test_node": "timbale", "test_node_parent": "dish", "entity_list": ["tokay", "food"], "relation_list": []}
+{"root": "food", "test_node": "apple juice", "test_node_parent": "fruit juice", "entity_list": ["apple jelly", "food"], "relation_list": []}
+{"root": "food", "test_node": "drip coffee", "test_node_parent": "coffee", "entity_list": ["instant coffee", "food"], "relation_list": []}
+{"root": "food", "test_node": "nut bread", "test_node_parent": "quick bread", "entity_list": ["pinwheel roll", "food"], "relation_list": []}
+{"root": "food", "test_node": "bourbon", "test_node_parent": "whiskey", "entity_list": ["blended whiskey", "food"], "relation_list": []}
+{"root": "food", "test_node": "new england clam chowder", "test_node_parent": "clam chowder", "entity_list": ["clam chowder", "food"], "relation_list": []}
+{"root": "food", "test_node": "neutral spirits", "test_node_parent": "alcohol", "entity_list": ["schnapps", "food"], "relation_list": []}
+{"root": "food", "test_node": "zinfandel", "test_node_parent": "red wine", "entity_list": ["merlot", "food"], "relation_list": []}
+{"root": "food", "test_node": "limeade", "test_node_parent": "fruit drink", "entity_list": ["lemonade", "food"], "relation_list": []}
+{"root": "food", "test_node": "eau de vie", "test_node_parent": "brandy", "entity_list": ["brandy", "food"], "relation_list": []}
+{"root": "food", "test_node": "newburg sauce", "test_node_parent": "sauce", "entity_list": ["lobster newburg", "food"], "relation_list": []}
+{"root": "food", "test_node": "flan", "test_node_parent": "dessert", "entity_list": ["plonk", "food"], "relation_list": []}
+{"root": "food", "test_node": "creme de fraise", "test_node_parent": "liqueur", "entity_list": ["creme anglais", "food"], "relation_list": []}
+{"root": "food", "test_node": "petite marmite", "test_node_parent": "soup", "entity_list": ["remoulade sauce", "food"], "relation_list": []}
+{"root": "food", "test_node": "chicken salad", "test_node_parent": "salad", "entity_list": ["chicken casserole", "food"], "relation_list": []}
+{"root": "food", "test_node": "bear claw", "test_node_parent": "sweet roll", "entity_list": ["stinger", "food"], "relation_list": []}
+{"root": "food", "test_node": "bercy", "test_node_parent": "sauce", "entity_list": ["manhattan", "food"], "relation_list": []}
+{"root": "food", "test_node": "aspic", "test_node_parent": "gelatin", "entity_list": ["condiment", "food"], "relation_list": []}
+{"root": "food", "test_node": "salmi", "test_node_parent": "ragout", "entity_list": ["farina", "food"], "relation_list": []}
+{"root": "food", "test_node": "pruno", "test_node_parent": "hooch", "entity_list": ["mulled wine", "food"], "relation_list": []}
+{"root": "food", "test_node": "bacon lettuce tomato sandwich", "test_node_parent": "sandwich", "entity_list": ["sandwich", "food"], "relation_list": []}
+{"root": "food", "test_node": "vodka", "test_node_parent": "liquor", "entity_list": ["vodka martini", "food"], "relation_list": []}
+{"root": "food", "test_node": "poppy seed", "test_node_parent": "flavorer", "entity_list": ["celery seed", "food"], "relation_list": []}
+{"root": "food", "test_node": "carrot stick", "test_node_parent": "crudites", "entity_list": ["carrot juice", "food"], "relation_list": []}
+{"root": "food", "test_node": "armagnac", "test_node_parent": "brandy", "entity_list": ["calvados", "food"], "relation_list": []}
+{"root": "food", "test_node": "eggs benedict", "test_node_parent": "dish", "entity_list": ["omelet", "food"], "relation_list": []}
+{"root": "food", "test_node": "hydromel", "test_node_parent": "beverage", "entity_list": ["metheglin", "food"], "relation_list": []}
+{"root": "food", "test_node": "jug wine", "test_node_parent": "wine", "entity_list": ["table wine", "food"], "relation_list": []}
+{"root": "food", "test_node": "peppermint", "test_node_parent": "mint", "entity_list": ["peppermint oil", "food"], "relation_list": []}
+{"root": "food", "test_node": "perishable", "test_node_parent": "foodstuff", "entity_list": ["starches", "food"], "relation_list": []}
+{"root": "food", "test_node": "allergy diet", "test_node_parent": "diet", "entity_list": ["diabetic diet", "food"], "relation_list": []}
+{"root": "food", "test_node": "crouton", "test_node_parent": "bread", "entity_list": ["breadstuff", "food"], "relation_list": []}
+{"root": "food", "test_node": "chianti", "test_node_parent": "red wine", "entity_list": ["verdicchio", "food"], "relation_list": []}
+{"root": "food", "test_node": "salad cream", "test_node_parent": "dressing", "entity_list": ["bread and butter pickle", "food"], "relation_list": []}
+{"root": "food", "test_node": "cafe au lait", "test_node_parent": "coffee", "entity_list": ["cafe royale", "food"], "relation_list": []}
+{"root": "food", "test_node": "adobo", "test_node_parent": "dish", "entity_list": ["spice", "food"], "relation_list": []}
+{"root": "food", "test_node": "confectionery", "test_node_parent": "sweet", "entity_list": ["sweetmeat", "food"], "relation_list": []}
+{"root": "food", "test_node": "club sandwich", "test_node_parent": "sandwich", "entity_list": ["sandwich", "food"], "relation_list": []}
+{"root": "food", "test_node": "swiss steak", "test_node_parent": "dish", "entity_list": ["steak au poivre", "food"], "relation_list": []}
+{"root": "food", "test_node": "banana bread", "test_node_parent": "quick bread", "entity_list": ["caraway seed bread", "food"], "relation_list": []}
+{"root": "food", "test_node": "whole wheat flour", "test_node_parent": "wheat flour", "entity_list": ["wheat flour", "food"], "relation_list": []}
+{"root": "food", "test_node": "hard roll", "test_node_parent": "bun", "entity_list": ["kaiser roll", "food"], "relation_list": []}
+{"root": "food", "test_node": "cinnamon roll", "test_node_parent": "sweet roll", "entity_list": ["pinwheel roll", "food"], "relation_list": []}
+{"root": "food", "test_node": "ambrosia", "test_node_parent": "dessert", "entity_list": ["elixir of life", "food"], "relation_list": []}
+{"root": "food", "test_node": "ingesta", "test_node_parent": "nutriment", "entity_list": ["flavorer", "food"], "relation_list": []}
+{"root": "food", "test_node": "grissino", "test_node_parent": "breadstick", "entity_list": ["breadstick", "food"], "relation_list": []}
+{"root": "food", "test_node": "swedish rye bread", "test_node_parent": "rye bread", "entity_list": ["rye bread", "food"], "relation_list": []}
+{"root": "food", "test_node": "piece de resistance", "test_node_parent": "dish", "entity_list": ["soup du jour", "food"], "relation_list": []}
+{"root": "food", "test_node": "tamale pie", "test_node_parent": "dish", "entity_list": ["spoon bread", "food"], "relation_list": []}
+{"root": "food", "test_node": "irish coffee", "test_node_parent": "coffee", "entity_list": ["instant coffee", "food"], "relation_list": []}
+{"root": "food", "test_node": "chicken paprika", "test_node_parent": "dish", "entity_list": ["moussaka", "food"], "relation_list": []}
+{"root": "food", "test_node": "vitamin b1", "test_node_parent": "b complex vitamin", "entity_list": ["vitamin b2", "food"], "relation_list": []}
+{"root": "food", "test_node": "soy sauce", "test_node_parent": "condiment", "entity_list": ["chinese brown sauce", "food"], "relation_list": []}
+{"root": "food", "test_node": "gazpacho", "test_node_parent": "soup", "entity_list": ["olla podrida", "food"], "relation_list": []}
+{"root": "food", "test_node": "eggnog", "test_node_parent": "punch", "entity_list": ["egg cream", "food"], "relation_list": []}
+{"root": "food", "test_node": "falafel", "test_node_parent": "dish", "entity_list": ["tamale", "food"], "relation_list": []}
+{"root": "food", "test_node": "triple cream", "test_node_parent": "cheese", "entity_list": ["heavy cream", "food"], "relation_list": []}
+{"root": "food", "test_node": "pinot blanc", "test_node_parent": "white wine", "entity_list": ["pinot noir", "food"], "relation_list": []}
+{"root": "food", "test_node": "tipsy cake", "test_node_parent": "trifle", "entity_list": ["flummery", "food"], "relation_list": []}
+{"root": "food", "test_node": "malted milk", "test_node_parent": "ingredient", "entity_list": ["powdered milk", "food"], "relation_list": []}
+{"root": "food", "test_node": "milk punch", "test_node_parent": "punch", "entity_list": ["fish house punch", "food"], "relation_list": []}
+{"root": "food", "test_node": "lorenzo dressing", "test_node_parent": "dressing", "entity_list": ["bolognese pasta sauce", "food"], "relation_list": []}
+{"root": "food", "test_node": "sauerbraten", "test_node_parent": "dish", "entity_list": ["schnitzel", "food"], "relation_list": []}
+{"root": "food", "test_node": "honey bun", "test_node_parent": "sweet roll", "entity_list": ["pinwheel roll", "food"], "relation_list": []}
+{"root": "food", "test_node": "tom and jerry", "test_node_parent": "hot toddy", "entity_list": ["hush puppy", "food"], "relation_list": []}
+{"root": "food", "test_node": "carob", "test_node_parent": "foodstuff", "entity_list": ["lemon oil", "food"], "relation_list": []}
+{"root": "food", "test_node": "fondant", "test_node_parent": "candy", "entity_list": ["tostada", "food"], "relation_list": []}
+{"root": "food", "test_node": "scotch egg", "test_node_parent": "dish", "entity_list": ["scotch woodcock", "food"], "relation_list": []}
+{"root": "food", "test_node": "baked alaska", "test_node_parent": "dessert", "entity_list": ["frozen custard", "food"], "relation_list": []}
+{"root": "food", "test_node": "pavlova", "test_node_parent": "dessert", "entity_list": ["slivovitz", "food"], "relation_list": []}
+{"root": "food", "test_node": "drambuie", "test_node_parent": "liqueur", "entity_list": ["liqueur", "food"], "relation_list": []}
+{"root": "food", "test_node": "green pea soup", "test_node_parent": "soup", "entity_list": ["pea soup", "food"], "relation_list": []}
+{"root": "food", "test_node": "amaretto", "test_node_parent": "liqueur", "entity_list": ["mozzarella", "food"], "relation_list": []}
+{"root": "food", "test_node": "gravy", "test_node_parent": "sauce", "entity_list": ["custard", "food"], "relation_list": []}
+{"root": "food", "test_node": "cardamom", "test_node_parent": "flavorer", "entity_list": ["nutmeg", "food"], "relation_list": []}
+{"root": "food", "test_node": "croquette", "test_node_parent": "dish", "entity_list": ["roulade", "food"], "relation_list": []}
+{"root": "food", "test_node": "manhattan clam chowder", "test_node_parent": "clam chowder", "entity_list": ["clam chowder", "food"], "relation_list": []}
+{"root": "food", "test_node": "celery stick", "test_node_parent": "crudites", "entity_list": ["anise", "food"], "relation_list": []}
+{"root": "food", "test_node": "fried rice", "test_node_parent": "dish", "entity_list": ["pilaf", "food"], "relation_list": []}
+{"root": "food", "test_node": "philter", "test_node_parent": "potion", "entity_list": ["potion", "food"], "relation_list": []}
+{"root": "food", "test_node": "crab cocktail", "test_node_parent": "cocktail", "entity_list": ["shrimp cocktail", "food"], "relation_list": []}
+{"root": "food", "test_node": "gyro", "test_node_parent": "sandwich", "entity_list": ["bullshot", "food"], "relation_list": []}
+{"root": "food", "test_node": "pernod", "test_node_parent": "liqueur", "entity_list": ["creme de menthe", "food"], "relation_list": []}
+{"root": "food", "test_node": "bouillabaisse", "test_node_parent": "fish stew", "entity_list": ["bouillon", "food"], "relation_list": []}
+{"root": "food", "test_node": "mushroom sauce", "test_node_parent": "sauce", "entity_list": ["marchand de vin", "food"], "relation_list": []}
+{"root": "food", "test_node": "sweet vermouth", "test_node_parent": "vermouth", "entity_list": ["vermouth", "food"], "relation_list": []}
+{"root": "food", "test_node": "fizz", "test_node_parent": "beverage", "entity_list": ["seltzer", "food"], "relation_list": []}
+{"root": "food", "test_node": "cracked wheat", "test_node_parent": "wheat", "entity_list": ["wheat", "food"], "relation_list": []}
+{"root": "food", "test_node": "beef stroganoff", "test_node_parent": "dish", "entity_list": ["pot au feu", "food"], "relation_list": []}
+{"root": "food", "test_node": "brie", "test_node_parent": "cheese", "entity_list": ["creme brulee", "food"], "relation_list": []}
+{"root": "food", "test_node": "bubble gum", "test_node_parent": "chewing gum", "entity_list": ["chewing gum", "food"], "relation_list": []}
+{"root": "food", "test_node": "double creme", "test_node_parent": "cream", "entity_list": ["double cream", "food"], "relation_list": []}
+{"root": "food", "test_node": "proof spirit", "test_node_parent": "alcohol", "entity_list": ["liquor", "food"], "relation_list": []}
+{"root": "food", "test_node": "sake", "test_node_parent": "alcohol", "entity_list": ["mulled wine", "food"], "relation_list": []}
+{"root": "food", "test_node": "planter's punch", "test_node_parent": "cocktail", "entity_list": ["fruit punch", "food"], "relation_list": []}
+{"root": "food", "test_node": "manzanilla", "test_node_parent": "sherry", "entity_list": ["tostada", "food"], "relation_list": []}
+{"root": "food", "test_node": "sauce louis", "test_node_parent": "dressing", "entity_list": ["remoulade sauce", "food"], "relation_list": []}
+{"root": "food", "test_node": "semolina", "test_node_parent": "flour", "entity_list": ["scallopine", "food"], "relation_list": []}
+{"root": "food", "test_node": "grist", "test_node_parent": "grain", "entity_list": ["malt", "food"], "relation_list": []}
+{"root": "food", "test_node": "soya milk", "test_node_parent": "milk", "entity_list": ["bean curd", "food"], "relation_list": []}
+{"root": "food", "test_node": "couscous", "test_node_parent": "dish", "entity_list": ["veloute", "food"], "relation_list": []}
+{"root": "food", "test_node": "fennel", "test_node_parent": "spice", "entity_list": ["fennel seed", "food"], "relation_list": []}
+{"root": "food", "test_node": "candy egg", "test_node_parent": "easter egg", "entity_list": ["deviled egg", "food"], "relation_list": []}
+{"root": "food", "test_node": "mate", "test_node_parent": "beverage", "entity_list": ["bleu", "food"], "relation_list": []}
+{"root": "food", "test_node": "popcorn ball", "test_node_parent": "candy", "entity_list": ["popcorn", "food"], "relation_list": []}
+{"root": "food", "test_node": "garlic salt", "test_node_parent": "flavorer", "entity_list": ["seasoned salt", "food"], "relation_list": []}
+{"root": "food", "test_node": "caraway", "test_node_parent": "herb", "entity_list": ["caraway seed", "food"], "relation_list": []}
+{"root": "food", "test_node": "catsup", "test_node_parent": "condiment", "entity_list": ["kabob", "food"], "relation_list": []}
+{"root": "food", "test_node": "curacao", "test_node_parent": "orange liqueur", "entity_list": ["demerara", "food"], "relation_list": []}
+{"root": "food", "test_node": "scrambled eggs", "test_node_parent": "dish", "entity_list": ["omelet", "food"], "relation_list": []}
+{"root": "food", "test_node": "crab louis", "test_node_parent": "salad", "entity_list": ["veloute", "food"], "relation_list": []}
+{"root": "food", "test_node": "sambuca", "test_node_parent": "liqueur", "entity_list": ["grappa", "food"], "relation_list": []}
+{"root": "food", "test_node": "oatcake", "test_node_parent": "quick bread", "entity_list": ["drop scone", "food"], "relation_list": []}
+{"root": "food", "test_node": "nectar", "test_node_parent": "fruit juice", "entity_list": ["honey", "food"], "relation_list": []}
+{"root": "food", "test_node": "frozen yogurt", "test_node_parent": "yogurt", "entity_list": ["frozen custard", "food"], "relation_list": []}
+{"root": "food", "test_node": "marzipan", "test_node_parent": "candy", "entity_list": ["praline", "food"], "relation_list": []}
+{"root": "food", "test_node": "alpha tocopheral", "test_node_parent": "vitamin e", "entity_list": ["fat soluble vitamin", "food"], "relation_list": []}
+{"root": "food", "test_node": "chocolate pudding", "test_node_parent": "pudding", "entity_list": ["pudding", "food"], "relation_list": []}
+{"root": "food", "test_node": "chef's salad", "test_node_parent": "combination salad", "entity_list": ["combination salad", "food"], "relation_list": []}
+{"root": "food", "test_node": "date bread", "test_node_parent": "quick bread", "entity_list": ["date nut bread", "food"], "relation_list": []}
+{"root": "food", "test_node": "brunch", "test_node_parent": "meal", "entity_list": ["meal", "food"], "relation_list": []}
+{"root": "food", "test_node": "tunaburger", "test_node_parent": "sandwich", "entity_list": ["hamburger", "food"], "relation_list": []}
+{"root": "food", "test_node": "saltine", "test_node_parent": "cracker", "entity_list": ["soda cracker", "food"], "relation_list": []}
+{"root": "food", "test_node": "maraschino", "test_node_parent": "sweet", "entity_list": ["grappa", "food"], "relation_list": []}
+{"root": "food", "test_node": "beet sugar", "test_node_parent": "sugar", "entity_list": ["cane sugar", "food"], "relation_list": []}
+{"root": "food", "test_node": "wrap", "test_node_parent": "sandwich", "entity_list": ["soave", "food"], "relation_list": []}
+{"root": "food", "test_node": "broad bean", "test_node_parent": "fodder", "entity_list": ["pulque", "food"], "relation_list": []}
+{"root": "food", "test_node": "sandwich plate", "test_node_parent": "dish", "entity_list": ["sandwich", "food"], "relation_list": []}
+{"root": "food", "test_node": "green salad", "test_node_parent": "tossed salad", "entity_list": ["salad", "food"], "relation_list": []}
+{"root": "food", "test_node": "almond extract", "test_node_parent": "flavorer", "entity_list": ["blancmange", "food"], "relation_list": []}
+{"root": "food", "test_node": "fish mousse", "test_node_parent": "mousse", "entity_list": ["fish fry", "food"], "relation_list": []}
+{"root": "food", "test_node": "refried beans", "test_node_parent": "dish", "entity_list": ["bean dip", "food"], "relation_list": []}
+{"root": "food", "test_node": "tahini", "test_node_parent": "spread", "entity_list": ["raita", "food"], "relation_list": []}
+{"root": "food", "test_node": "wassail", "test_node_parent": "punch", "entity_list": ["cider", "food"], "relation_list": []}
+{"root": "food", "test_node": "ouzo", "test_node_parent": "liquor", "entity_list": ["anisette", "food"], "relation_list": []}
+{"root": "food", "test_node": "dill seed", "test_node_parent": "flavorer", "entity_list": ["dill", "food"], "relation_list": []}
+{"root": "food", "test_node": "five spice powder", "test_node_parent": "spice", "entity_list": ["curry sauce", "food"], "relation_list": []}
+{"root": "food", "test_node": "cake mix", "test_node_parent": "ready mix", "entity_list": ["breadstuff", "food"], "relation_list": []}
+{"root": "food", "test_node": "pilsner", "test_node_parent": "lager", "entity_list": ["pale ale", "food"], "relation_list": []}

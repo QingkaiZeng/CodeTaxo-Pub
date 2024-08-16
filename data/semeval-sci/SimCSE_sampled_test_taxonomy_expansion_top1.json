@@ -1,0 +1,62 @@
+{"root": "science", "test_node": "electrostatics", "test_node_parent": "physics", "entity_list": ["electromagnetism", "science"], "relation_list": []}
+{"root": "science", "test_node": "penology", "test_node_parent": "criminology", "entity_list": ["criminology", "science"], "relation_list": []}
+{"root": "science", "test_node": "nosology", "test_node_parent": "medicine", "entity_list": ["oncology", "science"], "relation_list": []}
+{"root": "science", "test_node": "hydrostatics", "test_node_parent": "fluid mechanics", "entity_list": ["fluid mechanics", "science"], "relation_list": []}
+{"root": "science", "test_node": "exobiology", "test_node_parent": "biology", "entity_list": ["cosmology", "science"], "relation_list": []}
+{"root": "science", "test_node": "sumerology", "test_node_parent": "archeology", "entity_list": ["assyriology", "science"], "relation_list": []}
+{"root": "science", "test_node": "pomology", "test_node_parent": "botany", "entity_list": ["botany", "science"], "relation_list": []}
+{"root": "science", "test_node": "quadratics", "test_node_parent": "algebra", "entity_list": ["analytic geometry", "science"], "relation_list": []}
+{"root": "science", "test_node": "sociolinguistics", "test_node_parent": "linguistics", "entity_list": ["social anthropology", "science"], "relation_list": []}
+{"root": "science", "test_node": "emergency medicine", "test_node_parent": "medicine", "entity_list": ["aeromedicine", "science"], "relation_list": []}
+{"root": "science", "test_node": "electron optics", "test_node_parent": "electronics", "entity_list": ["optics", "science"], "relation_list": []}
+{"root": "science", "test_node": "podiatry", "test_node_parent": "medicine", "entity_list": ["lepidopterology", "science"], "relation_list": []}
+{"root": "science", "test_node": "solid state physics", "test_node_parent": "physics", "entity_list": ["quantum mechanics", "science"], "relation_list": []}
+{"root": "science", "test_node": "machine translation", "test_node_parent": "computational linguistics", "entity_list": ["natural language processing", "science"], "relation_list": []}
+{"root": "science", "test_node": "psephology", "test_node_parent": "sociology", "entity_list": ["politics", "science"], "relation_list": []}
+{"root": "science", "test_node": "neonatology", "test_node_parent": "pediatrics", "entity_list": ["pediatrics", "science"], "relation_list": []}
+{"root": "science", "test_node": "metrology", "test_node_parent": "science", "entity_list": ["astrophysics", "science"], "relation_list": []}
+{"root": "science", "test_node": "freudian psychology", "test_node_parent": "psychotherapy", "entity_list": ["psychodynamics", "science"], "relation_list": []}
+{"root": "science", "test_node": "jungian psychology", "test_node_parent": "psychotherapy", "entity_list": ["psychodynamics", "science"], "relation_list": []}
+{"root": "science", "test_node": "spherical geometry", "test_node_parent": "geometry", "entity_list": ["spherical trigonometry", "science"], "relation_list": []}
+{"root": "science", "test_node": "rheology", "test_node_parent": "physics", "entity_list": ["fluid mechanics", "science"], "relation_list": []}
+{"root": "science", "test_node": "aeromechanics", "test_node_parent": "mechanics", "entity_list": ["aeronautics", "science"], "relation_list": []}
+{"root": "science", "test_node": "volcanology", "test_node_parent": "geophysics", "entity_list": ["orology", "science"], "relation_list": []}
+{"root": "science", "test_node": "egyptology", "test_node_parent": "archeology", "entity_list": ["lepidopterology", "science"], "relation_list": []}
+{"root": "science", "test_node": "sociometry", "test_node_parent": "sociology", "entity_list": ["sociology", "science"], "relation_list": []}
+{"root": "science", "test_node": "projective geometry", "test_node_parent": "geometry", "entity_list": ["analytic geometry", "science"], "relation_list": []}
+{"root": "science", "test_node": "probability theory", "test_node_parent": "applied mathematics", "entity_list": ["set theory", "science"], "relation_list": []}
+{"root": "science", "test_node": "paleogeography", "test_node_parent": "archeology", "entity_list": ["paleogeology", "science"], "relation_list": []}
+{"root": "science", "test_node": "hemodynamics", "test_node_parent": "physiology", "entity_list": ["hematology", "science"], "relation_list": []}
+{"root": "science", "test_node": "ornithology", "test_node_parent": "zoology", "entity_list": ["entomology", "science"], "relation_list": []}
+{"root": "science", "test_node": "dermatology", "test_node_parent": "medicine", "entity_list": ["otology", "science"], "relation_list": []}
+{"root": "science", "test_node": "petroleum geology", "test_node_parent": "economic geology", "entity_list": ["geology", "science"], "relation_list": []}
+{"root": "science", "test_node": "architectonics", "test_node_parent": "science", "entity_list": ["morphology", "science"], "relation_list": []}
+{"root": "science", "test_node": "memory", "test_node_parent": "cognitive psychology", "entity_list": ["cognitive neuroscience", "science"], "relation_list": []}
+{"root": "science", "test_node": "proteomics", "test_node_parent": "genetics", "entity_list": ["genomics", "science"], "relation_list": []}
+{"root": "science", "test_node": "compound morphology", "test_node_parent": "morphology", "entity_list": ["inflectional morphology", "science"], "relation_list": []}
+{"root": "science", "test_node": "quantum chromodynamics", "test_node_parent": "quantum field theory", "entity_list": ["quantum mechanics", "science"], "relation_list": []}
+{"root": "science", "test_node": "functional genomics", "test_node_parent": "genomics", "entity_list": ["genomics", "science"], "relation_list": []}
+{"root": "science", "test_node": "geostrategy", "test_node_parent": "geopolitics", "entity_list": ["geopolitics", "science"], "relation_list": []}
+{"root": "science", "test_node": "ethnology", "test_node_parent": "anthropology", "entity_list": ["ethnography", "science"], "relation_list": []}
+{"root": "science", "test_node": "abnormal psychology", "test_node_parent": "psychology", "entity_list": ["psychodynamics", "science"], "relation_list": []}
+{"root": "science", "test_node": "oology", "test_node_parent": "zoology", "entity_list": ["paleornithology", "science"], "relation_list": []}
+{"root": "science", "test_node": "proxemics", "test_node_parent": "social science", "entity_list": ["social psychology", "science"], "relation_list": []}
+{"root": "science", "test_node": "audiology", "test_node_parent": "otology", "entity_list": ["otology", "science"], "relation_list": []}
+{"root": "science", "test_node": "wave mechanics", "test_node_parent": "quantum mechanics", "entity_list": ["mechanics", "science"], "relation_list": []}
+{"root": "science", "test_node": "phonetics", "test_node_parent": "acoustics", "entity_list": ["phonology", "science"], "relation_list": []}
+{"root": "science", "test_node": "psychopharmacology", "test_node_parent": "pharmacology", "entity_list": ["psychodynamics", "science"], "relation_list": []}
+{"root": "science", "test_node": "agrology", "test_node_parent": "science", "entity_list": ["agrobiology", "science"], "relation_list": [["science", "agrobiology"]]}
+{"root": "science", "test_node": "formal semantics", "test_node_parent": "semantics", "entity_list": ["semantics", "science"], "relation_list": []}
+{"root": "science", "test_node": "sports medicine", "test_node_parent": "medicine", "entity_list": ["veterinary medicine", "science"], "relation_list": []}
+{"root": "science", "test_node": "cytogenetics", "test_node_parent": "cytology", "entity_list": ["genetics", "science"], "relation_list": []}
+{"root": "science", "test_node": "psychophysics", "test_node_parent": "experimental psychology", "entity_list": ["psychodynamics", "science"], "relation_list": []}
+{"root": "science", "test_node": "petrology", "test_node_parent": "morphology", "entity_list": ["lepidopterology", "science"], "relation_list": []}
+{"root": "science", "test_node": "astrodynamics", "test_node_parent": "astronomy", "entity_list": ["celestial mechanics", "science"], "relation_list": []}
+{"root": "science", "test_node": "brain science", "test_node_parent": "neuroscience", "entity_list": ["neuroscience", "science"], "relation_list": []}
+{"root": "science", "test_node": "periodontics", "test_node_parent": "dentistry", "entity_list": ["exodontics", "science"], "relation_list": []}
+{"root": "science", "test_node": "selenology", "test_node_parent": "astronomy", "entity_list": ["geology", "science"], "relation_list": []}
+{"root": "science", "test_node": "orthodontics", "test_node_parent": "dentistry", "entity_list": ["dentistry", "science"], "relation_list": []}
+{"root": "science", "test_node": "rhinolaryngology", "test_node_parent": "medicine", "entity_list": ["otology", "science"], "relation_list": []}
+{"root": "science", "test_node": "immunochemistry", "test_node_parent": "immunology", "entity_list": ["immunopathology", "science"], "relation_list": []}
+{"root": "science", "test_node": "particle physics", "test_node_parent": "physics", "entity_list": ["nuclear physics", "science"], "relation_list": []}
+{"root": "science", "test_node": "ophthalmology", "test_node_parent": "medicine", "entity_list": ["orthopedics", "science"], "relation_list": []}

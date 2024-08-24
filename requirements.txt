@@ -1,0 +1,7 @@
+networkx==3.3
+openai==1.42.0
+python-dotenv==1.0.1
+replicate==0.25.1
+scipy==1.14.1
+torch==2.0.1
+tqdm==4.66.4

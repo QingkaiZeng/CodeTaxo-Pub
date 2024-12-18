@@ -1,0 +1,18 @@
+from typing import List
+
+class Entity:
+    def __init__(self, name: str, description: str, parent: Entity, child: List['Entity']):
+        self.name = name
+        self.description = description
+        self.parent = parent
+        self.child = child
+
+    def add_parent(self, parent: 'Entity'):
+        self.parent = parent.name
+        parent.add_child(self)
+
+    def add_child(self, child: 'Entity'):
+        self.child.append(child)
+
+# Creating entities and establishing parent-child relationship
+
